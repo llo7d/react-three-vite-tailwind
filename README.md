@@ -1,8 +1,8 @@
 # R3F-VT-L Starter
 
-_A simple React Three Fiber + Vite + Tailwind + Leva starter
+_A simple React Three Fiber + Vite + Tailwind + Leva starter_
 
-![Preview](/public/preview.gif)
+<img src="/public/preview.gif" alt="Preview" width="470" height="213" />
 
 ### Resources:
 
@@ -14,19 +14,14 @@ _A simple React Three Fiber + Vite + Tailwind + Leva starter
 - [Leva](https://github.com/pmndrs/leva): React components GUI 
 
 
-### Installation
+## Getting Started
+
+[Generate](https://github.com/llo7d/react-three-vite-tailwind) a new project
+from this template, clone it, install project dependencies and start hacking:
 
 ```
-npm install
+$ git clone https://github.com/llo7d/react-three-vite-tailwind
+$ cd ./react-three-vite-tailwind 
+$ npm install
+$ npm run dev
 ```
-
-### Scripts
-
-```
-npm run dev
-npm run build
-npm run preview
-npm run sandbox
-```
-### CodeSandbox
-To create a sandbox from this starter, [import your repository URL](https://codesandbox.io/dashboard/repositories) (this repo works too), or [fork this template](https://codesandbox.io/s/react-three-fiber-vite-starter-r1tgld).
