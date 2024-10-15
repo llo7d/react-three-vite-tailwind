@@ -4,7 +4,18 @@ _A simple React Three Fiber + Vite + Tailwind + Leva starter_
 
 <img src="/public/preview.gif" alt="Preview" width="470" height="213" />
 
-### Resources:
+## Getting Started
+
+Clone it, install project dependencies and start hacking:
+
+```
+$ git clone https://github.com/llo7d/react-three-vite-tailwind
+$ cd ./react-three-vite-tailwind 
+$ npm install
+$ npm run dev
+```
+
+## Resources:
 
 - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/): Three.js Renderer
 - [Drei](https://github.com/pmndrs/drei): React Three Fiber Helpers
@@ -13,15 +24,3 @@ _A simple React Three Fiber + Vite + Tailwind + Leva starter_
 - [TailwindCSS](https://tailwindcss.com/): Open-source CSS framework
 - [Leva](https://github.com/pmndrs/leva): React components GUI 
 
-
-## Getting Started
-
-[Generate](https://github.com/llo7d/react-three-vite-tailwind) a new project
-from this template, clone it, install project dependencies and start hacking:
-
-```
-$ git clone https://github.com/llo7d/react-three-vite-tailwind
-$ cd ./react-three-vite-tailwind 
-$ npm install
-$ npm run dev
-```
