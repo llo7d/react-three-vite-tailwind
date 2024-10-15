@@ -1,6 +1,6 @@
-# React Three Fiber + Vite Starter
+# R3F-VT-L Starter
 
-_A simple React Three Fiber + Vite starter with an import-ready CodeSandbox config._
+_A simple React Three Fiber + Vite + Tailwind + Leva starter
 
 ![Preview](/public/preview.gif)
 
@@ -10,10 +10,8 @@ _A simple React Three Fiber + Vite starter with an import-ready CodeSandbox conf
 - [Drei](https://github.com/pmndrs/drei): React Three Fiber Helpers
 - [Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene): 3D Engine
 - [Vite](https://vitejs.dev/guide/): Static Web Server
-- [TailwindCSS](https://codesandbox.io/docs/configuration): Open-source CSS framework
-- [Leva](https://codesandbox.io/docs/configuration):React-first components GUI 
-
-
+- [TailwindCSS](https://tailwindcss.com/): Open-source CSS framework
+- [Leva](https://github.com/pmndrs/leva): React components GUI 
 
 
 ### Installation
