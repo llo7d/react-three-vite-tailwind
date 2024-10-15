@@ -1,8 +1,15 @@
-# R3F-VT-L Starter
+<p align="center">
+  <em>My personal starter for 3D Web development <br />
+  Using React Three Fiber + Vite + Tailwind + Leva</em>
+</p>
 
-_A simple React Three Fiber + Vite + Tailwind + Leva starter_
 
+
+<div align="center">
 <img src="/public/preview.gif" alt="Preview" width="470" height="213" />
+</div>
+
+---
 
 ## Getting Started
 
